@@ -1,15 +1,3 @@
-'''
-
-File: pokemon.py
-Author: Randall Candaso
-Course/Section: CSC 120-002
-Purpose: This program takes an inputted csv file that contains
-specific stats about specific Pokemon. Then, based off user
-queries, the program will determine the highest average of a
-particular desired stat.
-
-'''
-
 def main():
     user = input('')
     while True:
